@@ -129,4 +129,36 @@ Below is the summary of configuration tasks performed in this project:
 | OSPF Routing Table                  | ![ospf](https://github.com/hehsilva/Enterprise_Network_project/blob/2da75fb54bf045d1324e5721334c5e99d96f6d27/Images/ospf%20routing%20table.jpg) |
 
 ---
+## 👨‍💼 Contributors
+
+- **Janani Chamodya** – Gruop Leader   
+- *Hasini Erandi - Gruop member*
+
+---
+
+## 🔒 License
+
+This project is for **educational purposes only**. You may reuse configurations or structure under the [MIT License](LICENSE).
+
+---
+
+## 🛠 Future Improvements
+
+- Add external DNS resolution using simulated Internet servers
+- Implement failover using HSRP or VRRP
+- Introduce AAA server for centralized authentication
+
+---
+
+## 🧪 Testing & Validation
+
+✔ All departments can communicate via inter-VLAN routing  
+✔ HQ and Branch securely communicate using VPN tunnel  
+✔ DHCP assigns IPs correctly, servers use static IPs  
+✔ Access control via ACLs works as expected  
+✔ Internet access working through PAT
+
+
+
+
 
